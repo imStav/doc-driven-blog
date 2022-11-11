@@ -45,6 +45,7 @@ npm run preview
 - Nuxt Content 2
 - Document Driven mode
 - Markdown
+- Tailwind Typography
 
 *Find more information in the `package.json` file*
 

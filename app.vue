@@ -3,7 +3,7 @@ const { navigation } = useContent()
 </script>
 
 <template>
-    <div class="w-screen prose dark:prose-invert bg-slate-100 dark:bg-black">
+    <div class="min-h-screen prose dark:prose-invert bg-slate-100 dark:bg-black">
         <div class="">
             <nav class="flex justify-center not-prose">
                 <li 

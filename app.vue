@@ -3,8 +3,8 @@ const { navigation } = useContent()
 </script>
 
 <template>
-    <div class="min-h-screen prose dark:prose-invert bg-slate-100 dark:bg-black">
-        <div class="">
+    <div class="min-h-screen min-w-[100vw] prose dark:prose-invert bg-slate-100 dark:bg-black">
+        <div>
             <nav class="flex justify-center not-prose">
                 <li 
                     v-for="link in navigation" :key="link._path"

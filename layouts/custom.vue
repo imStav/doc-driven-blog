@@ -1,7 +1,5 @@
 <template>
-  <div>
-    <p>Custom Layout</p>
-    <hr/>
+  <div class="mx-auto w-1/3 my-16">
     <slot />
   </div>
 </template>

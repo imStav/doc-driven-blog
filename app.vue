@@ -3,7 +3,7 @@ const { navigation } = useContent()
 </script>
 
 <template>
-    <div class="min-h-screen min-w-[100vw] py-2 prose dark:prose-invert bg-slate-100 dark:bg-black">
+    <div class="min-h-screen min-w-[100%] py-2 mx-auto prose dark:prose-invert bg-slate-100 dark:bg-black">
         <div>
             <nav class="flex justify-center not-prose">
                 <li 

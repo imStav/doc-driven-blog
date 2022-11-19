@@ -10,7 +10,7 @@ const { navigation } = useContent()
                     v-for="link in navigation" :key="link._path"
                     class="list-none mx-4"
                 >
-                    <NuxtLink :to="link._path">
+                    <NuxtLink :to="link._path" class="hover:opacity-60">
                         {{ link.title }}
                     </NuxtLink>
                 </li>

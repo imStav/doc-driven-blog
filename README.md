@@ -52,7 +52,5 @@ npm run preview
 ## 📚 Documentations
 
 - Look at the [Content documentation](https://content-v2.nuxtjs.org/) to learn more.
-
 - Look at the [Document Driven documentation](https://content.nuxtjs.org/guide/writing/document-driven) to learn more.
-
 - Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment) for more information.
